@@ -14,10 +14,10 @@ Type stubs (type hints) for the **RayStation** API, meant to improve:
 
 ## Installation (from a local path)
 
-Install the repository from a local folder with `pip`:
+Install the repository from git with `pip`:
 
 ```bash
-pip install "C:/<path>/Raystation-stubs"
+pip install git+https://github.com/ArthurRochette/Raystation-stubs
 ```
 
 Notes:
