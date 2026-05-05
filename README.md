@@ -5,8 +5,6 @@ Type stubs (type hints) for the **RayStation** API, meant to improve:
 - auto-completion,
 - inline documentation (docstrings/signatures), in IDEs (PyCharm, VS Code/Pylance, etc.).
 
-
-
 ## Requirements
 
 - Python installed (your IDE/tooling version; typically Python 3.9+ is fine)
@@ -19,10 +17,6 @@ Install the repository from git with `pip`:
 ```bash
 pip install git+https://github.com/ArthurRochette/Raystation-stubs
 ```
-
-Notes:
-- On Windows, quoting the path is recommended.
-- Use the folder that contains `pyproject.toml` or `setup.py` (depending on the project structure).
 
 ## Using it in your IDE
 
