@@ -10,7 +10,7 @@ Type stubs (type hints) for the **RayStation** API, meant to improve:
 - Python installed (your IDE/tooling version; typically Python 3.9+ is fine)
 - RayStation is required to *run* scripts, but **not required** just to benefit from IDE type hints.
 
-## Installation (from a local path)
+## Installation
 
 Install the repository from git with `pip`:
 
